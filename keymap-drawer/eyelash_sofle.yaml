@@ -56,8 +56,8 @@ layers:
   - $$mdi:volume-off$$
   - LEFT WIN
   - $$mdi:apple-keyboard-option$$
-  - $$mdi:keyboard-space$$
   - {t: '$$mdi:keyboard-space$$', h: layer1}
+  - $$mdi:keyboard-space$$
   - layer1
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - '2'
@@ -121,8 +121,8 @@ layers:
   - $$mdi:volume-off$$
   - BT CLR ALL
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
   - {type: held}
+  - {t: '$$mdi:transfer$$', type: trans}
   - {type: held alternate}
   - $$mdi:mouse-left-click-outline$$
   - {t: '$$mdi:transfer$$', type: trans}
